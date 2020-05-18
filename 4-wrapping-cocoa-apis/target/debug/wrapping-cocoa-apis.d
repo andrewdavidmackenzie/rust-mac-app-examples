@@ -1,0 +1,1 @@
+/Users/andrew/workspace/rust-mac-app-examples/4-wrapping-cocoa-apis/target/debug/wrapping-cocoa-apis: /Users/andrew/workspace/rust-mac-app-examples/4-wrapping-cocoa-apis/src/main.rs /Users/andrew/workspace/rust-mac-app-examples/4-wrapping-cocoa-apis/src/objc_class.rs

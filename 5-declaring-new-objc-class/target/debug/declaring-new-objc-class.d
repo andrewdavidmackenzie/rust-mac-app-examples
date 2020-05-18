@@ -1,0 +1,1 @@
+/Users/andrew/workspace/rust-mac-app-examples/5-declaring-new-objc-class/target/debug/declaring-new-objc-class: /Users/andrew/workspace/rust-mac-app-examples/5-declaring-new-objc-class/src/foundation.rs /Users/andrew/workspace/rust-mac-app-examples/5-declaring-new-objc-class/src/main.rs /Users/andrew/workspace/rust-mac-app-examples/5-declaring-new-objc-class/src/objc_class.rs
